@@ -30,9 +30,13 @@ The copyright for these materials is attributed to © Education Scotland.
 References for HTML
 
 
-•	An online starter’s guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/ 
-•	Markdown for Jupyter notebooks cheatsheet, including information on how to format Markdown cells in Jupyter notebooks. 
+An online starter’s guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/ 
+
+Markdown for Jupyter notebooks cheatsheet, including information on how to format Markdown cells in Jupyter notebooks. 
+
 Link to resource: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet 
-•	IBM guidance on using Jupyter notebooks: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=data-notebooks 
-•	Python W3 Tutorials: https://www.w3schools.com/python/ 
+
+IBM guidance on using Jupyter notebooks: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=data-notebooks 
+
+Python W3 Tutorials: https://www.w3schools.com/python/ 
 

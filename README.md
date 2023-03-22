@@ -20,23 +20,20 @@ This content aims to provide support and learning materials for teachers to adop
 
 ### Reference Attributions & Available Resources for Web development and Noteable
 
-Attributions
+### Attributions
 
 This workbook and exercises alongside this workbook include content adapted from a number of sources with creative commons licenses open to share and compatible with the Creative Commons Attribution 4.0 International License for these resources. 
 
 The copyright for these materials is attributed to © Education Scotland.
 
 
-References for HTML
+_References for HTML_
 
 
-An online starter’s guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/ 
+- An online starter’s guide to Jupyter Notebooks: https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/ 
 
-Markdown for Jupyter notebooks cheatsheet, including information on how to format Markdown cells in Jupyter notebooks. 
+- Markdown for Jupyter notebooks cheatsheet, including information on how to format Markdown cells in Jupyter notebooks. 
 
-Link to resource: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet 
+- Link to resource: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet 
 
-IBM guidance on using Jupyter notebooks: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=data-notebooks 
-
-Python W3 Tutorials: https://www.w3schools.com/python/ 
-
+- IBM guidance on using Jupyter notebooks: https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=data-notebooks 
